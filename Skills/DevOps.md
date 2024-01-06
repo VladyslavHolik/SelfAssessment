@@ -6,16 +6,16 @@
 
 - Virtualization and Containerization
     - Virtualization Technologies
-        - Virtual Machines: 🖐️
+        - Virtual Machines: 🙋
         - Hypervisors: 🖐️
     - Containerization
-        - Docker Containers: 🖐️
-        - Container Registries (e.g., Docker Hub, AWS ECR): 🖐️
+        - Docker Containers: 🙋
+        - Container Registries (e.g., Docker Hub, AWS ECR): 🙋
     - Orchestration and Automation
         - Container Orchestration
-            - Kubernetes: 🖐️
-            - Docker Swarm
-            - Helm for Kubernetes Package Management
+            - Kubernetes: 🙋
+            - Docker Swarm 👂
+            - Helm for Kubernetes Package Management 👂
         - Configuration Management and Automation
             - Ansible: 🖐️
 
@@ -26,7 +26,7 @@
 - Infrastructure Management
     - Cloud Infrastructure Management
         - Public Cloud Platforms (AWS, Azure, GCP): 🖐️
-        - Hybrid and Multi-cloud Strategies: 👂
+        - Hybrid and Multi-cloud Strategies: 🖐️
         - terraform: 👂
     - Data Center Automation
         - Infrastructure Automation in Data Centers

@@ -1,14 +1,14 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js 🎓
   - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
+  - Nonblocking I/O and slocking code 👂
+  - Event loop: phases 👂
   - Event loop: microtasks and macrotasks
   - Garbage collection 🖐️
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - I/O-bound, CPU-bound, memory-bound tasks 👂
   - Interactive applications (close to real-time) 🖐️
 - Modularity, layers and dependencies 🖐️
   - CommonJS modules
@@ -101,7 +101,7 @@
   - DDoS  🙋
   - XSS
   - Path traversal 👂
-  - CSRF 👂
+  - CSRF 🙋
   - DNS 🖐️
   - Fetch API
   - IncomingMessage

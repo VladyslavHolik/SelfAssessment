@@ -6,7 +6,7 @@
     - Just-In-Time (JIT) Compilation: 🎓
     - JVM Garbage Collectors: 🖐️
     - JVM Heap and Stack: 🖐️
-    - JVM Monitoring and Profiling: 👂
+    - JVM Monitoring and Profiling: 🖐️
     - Class Loading Mechanism: 🎓
 
 - Advanced Concurrency
@@ -26,22 +26,22 @@
 
 ## Kotlin
 - Kotlin Language Features
-    - Inline Functions and Reified Type Parameters: 🖐️
+    - Inline Functions and Reified Type Parameters: 🙋
     - Companion Objects: 🙋
     - Operator Overloading: 🙋
     - Delegated Properties: 🙋
-    - Destructuring Declarations: 🖐️
+    - Destructuring Declarations: 🙋
     - Type Aliases: 🙋
 
 - Functional Programming in Kotlin
-    - Immutability and Pure Functions: 🖐️
-    - Sequence and Collection Operations: 🖐️
-    - Lazy Evaluation: 🖐️
+    - Immutability and Pure Functions:  🙋
+    - Sequence and Collection Operations:  🙋
+    - Lazy Evaluation:  🙋
 
 - Coroutines and Asynchronous Programming
     - Coroutine Builders and Contexts: 🖐️
-    - Structured Concurrency: 🎓
-    - Flow API and Reactive Streams: 🎓
+    - Structured Concurrency: 🖐️
+    - Flow API and Reactive Streams: 🖐️
     - Suspending Functions: 🖐️
     - Coroutine Exception Handling: 🖐️
 
@@ -55,11 +55,11 @@
   - Error Handling: 🖐️
 
 - Concurrency in Go
-  - Goroutines and Channels: 👂
-  - Mutexes and Locking: 👂
-  - Wait Groups and Barriers: 👂
-  - Select Statement: 👂
-  - Timers and Tickers: 👂
+  - Goroutines and Channels: 🙋
+  - Mutexes and Locking: 🙋
+  - Wait Groups and Barriers: 🙋
+  - Select Statement: 🙋
+  - Timers and Tickers: 🙋
 
 - Go Packages and Libraries
   - Standard Library Overview: 🖐️
@@ -68,40 +68,40 @@
   - Creating and Using Custom Packages: 🖐️
 
 - Advanced Go Features
-  - Interfaces and Type Embedding: 👂
-    - Reflection in Go: 👂
+  - Interfaces and Type Embedding: 🙋
+    - Reflection in Go: 🙋
   - Concurrency Patterns:
-      - Fan-out, Fan-in: 👂
-      - Worker Pools: 👂
-      - Pub-Sub: 👂
-  - Context Package: 👂
+      - Fan-out, Fan-in: 🎓
+      - Worker Pools: 🎓
+      - Pub-Sub: 🎓
+  - Context Package: 🎓
 
 - Testing and Benchmarking
-  - Writing Unit Tests: 👂
-  - Benchmarking in Go: 👂
-  - Testing Best Practices: 👂
-  - Mocking in Go: 👂
+  - Writing Unit Tests: 🖐️
+  - Benchmarking in Go: 🖐️
+  - Testing Best Practices: 🖐️
+  - Mocking in Go: 🖐️
 
 - Web Development in Go
-  - HTTP Server and Client: 👂
-  - Routing and Middleware: 👂
-  - Templates and Views: 👂
-  - Authentication and Authorization: 👂
+  - HTTP Server and Client: 🖐️
+  - Routing and Middleware: 🖐️
+  - Templates and Views: 🖐️
+  - Authentication and Authorization: 🖐️
 
 - Go Tools and Profiling
   - go toolset (e.g., go build, go test): 🖐️
-  - Profiling Go Programs: 👂
-  - Debugging Techniques: 👂
-  - Continuous Integration with Go: 👂
+  - Profiling Go Programs: 🖐️
+  - Debugging Techniques: 🖐️
+  - Continuous Integration with Go: 🖐️
 
 - Best Practices and Code Organization
-  - Code Style and Conventions: 👂
-  - Documentation in Go: 👂
-  - Error Handling Best Practices: 👂
-  - Project Structure and Layout: 👂
+  - Code Style and Conventions: 📢
+  - Documentation in Go: 🖐️
+  - Error Handling Best Practices: 📢
+  - Project Structure and Layout: 📢
 
 - Advanced Topics
   - cgo and Calling C Libraries:
-  - Cross-Compilation in Go: 👂
-  - Memory Management in Go: 👂
-  - Working with Databases in Go: 👂
+  - Cross-Compilation in Go: 🖐️
+  - Memory Management in Go: 🖐️
+  - Working with Databases in Go: 🖐️

@@ -16,9 +16,9 @@
   - Race conditions 🙋
   - Dead locks 🙋
   - Live locks 🙋
-  - Concurrent programming 🖐️
-  - Parallel programming 🖐️
-  - Actor Model 👂
+  - Concurrent programming 🙋
+  - Parallel programming 🙋
+  - Actor Model 🎓
   - Thread 🖐️
   - Process 🖐️
 - Async contracts
@@ -37,7 +37,7 @@
   - Goroutine 👂
   - Signal 🖐️
   - Stream 🖐️
-  - Chain of responsibility 🎓
+  - Chain of responsibility 🖐️
   - Middleware 🖐️
   - Locks 🙋
 - Async adapters and utils
@@ -55,8 +55,8 @@
   - Async Pool 👂
   - Async Queue 👂
   - Async Collector
-  - Semaphore 👂
-  - Mutex 👂
+  - Semaphore 🖐️
+  - Mutex 🖐️
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers 👂

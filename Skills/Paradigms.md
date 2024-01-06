@@ -1,7 +1,7 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 🖐️
+  - Procedural programming 🙋
   - Imperative programming 🙋
   - Structured programming 🙋
   - Non-structured programming 🖐️
@@ -18,8 +18,8 @@
   - Automata-based programming 👂
   - Domain-specific languages 🖐️
   - Multi-paradigm programming 🖐️
-  - Metaprogramming 👂
-  - Actor model 👂
+  - Metaprogramming 🎓
+  - Actor model 🎓
 - OOP basics
   - constructor 🙋
   - new 🙋
@@ -45,7 +45,7 @@
   - Singleton 🙋
   - Factory Method 🙋
   - Abstract Factory 🙋
-  - Adapter 🖐️
+  - Adapter 🙋
   - Observer 🙋
   - Strategy 🙋
   - Facade 🙋
@@ -54,13 +54,13 @@
   - Command 🙋
   - Iterator 🙋
   - State 🎓
-  - Bridge 🖐️
+  - Bridge 🙋
   - Builder 🙋
-  - Prototype 🖐️
+  - Prototype 🙋
   - Composite 🙋
   - Decorator 🙋
-  - Flyweight 🎓
-  - Mediator 🎓
-  - Memento 🎓
-  - Template Method 🎓
-  - Visitor 🖐️
+  - Flyweight 🖐️
+  - Mediator 🖐️
+  - Memento 🖐️
+  - Template Method 🖐️
+  - Visitor 🙋
