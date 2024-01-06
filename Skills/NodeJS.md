@@ -6,11 +6,11 @@
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection 🖐️
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
-- Modularity, layers and dependencies
+  - Interactive applications (close to real-time) 🖐️
+- Modularity, layers and dependencies 🖐️
   - CommonJS modules
   - ECMAScript modules
   - node:module
@@ -18,18 +18,18 @@
   - Modules as singletons
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: package.json and package lock 🖐️
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
-  - DI containers
-  - Coupling and cohesion
+  - Dependency injection 🖐️
+  - DI containers 🖐️
+  - Coupling and cohesion 🖐️
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments 🖐️
   - Node.js CLI
   - Process-based permissions
-  - Graceful shutdown
+  - Graceful shutdown 🖐️
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
@@ -40,7 +40,7 @@
   - Web Crypto API
   - File system API: sync and async
   - Copy folder recursively
-  - Worker threads
+  - Worker threads 🖐️
   - Performance hooks
   - Native fetch and nodejs/undici
   - node:async_hooks
@@ -48,7 +48,7 @@
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
-  - Stream back pressure
+  - Stream back pressure 🎓
   - SharedArrayBuffer
   - node:worker_threads
   - node:child_process
@@ -57,99 +57,99 @@
   - Generating crypto random UUID
   - node:url vs new URL
   - node:assert
-  - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Internationalization 🖐️
+  - Blob, File, Buffer, node:buffer 🖐️
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
-  - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - Distributed systems
-  - Highload applications
-  - Clean architecture
-  - DDD
-  - Message Queue
-  - CQS
-  - CQRS
-  - Event sourcing
-  - Load balancing
-  - Serverless clouds
+  - Isolation between layer 🖐️
+  - Multilayer approach 🖐️
+  - Separation of concerns 🖐️
+  - Inversion of control 🖐️
+  - Dependency injection 🖐️
+  - GRASP 🖐️
+  - SOLID 🖐️
+  - GoF patterns 🖐️
+  - Distributed systems 🖐️
+  - Highload applications 🖐️
+  - Clean architecture 🖐️
+  - DDD 🖐️
+  - Message Queue 🖐️
+  - CQS 🖐️
+  - CQRS 🖐️
+  - Event sourcing 🖐️
+  - Load balancing 🖐️
+  - Serverless clouds 🖐️
   - FaaS clouds
-  - Fat controller
+  - Fat controller 👂
   - GoF for Node.js
   - Leaking abstractions
 - Network
   - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - Endpoint throttling 👂
+  - HTTP(S) 🖐️
+  - TCP/SSL 🖐️
+  - UDP 🎓
+  - TLS 👂
+  - Websocket 🎓
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling
-  - REST
+  - Long polling 👂
+  - REST 🖐️
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing 🖐️
+  - DoS  🙋
+  - DDoS  🙋
   - XSS
-  - Path traversal
-  - CSRF
-  - DNS
+  - Path traversal 👂
+  - CSRF 👂
+  - DNS 🖐️
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection 🙋
   - noDelay
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates 🎓
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Logging 🖐️
+  - Application configuring 🖐️
+  - Testing 🖐️
+  - CI/CD 🖐️
+  - Readable 🖐️
+  - Writable 🖐️
   - Transform
-  - back pressure
-  - Buffer
-  - Console
+  - back pressure 👂
+  - Buffer 🖐️
+  - Console 🖐️
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability 🖐️
+  - Quality 🖐️
+  - Availability 🖐️
+  - Flexibility 🖐️
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer 🖐️
+  - Repository 🖐️
   - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Query builder 🖐️
+  - Object-Relational Mapping 🖐️
 - Error handling and debugging
-  - Error
+  - Error 🖐️
   - error.cause
   - error.code
   - error.message
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
+  - Uncaught exceptions 🖐️
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Memory leaks 🙋
+  - Resource leaks 🙋
+  - Data race 🙋
 - Integrations and bindings
   - Native addons
   - C and C++ addons

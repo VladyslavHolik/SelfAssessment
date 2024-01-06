@@ -1,73 +1,73 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Event loop 🙋
+  - try..catch 🖐️
+  - Non-blocking 🖐️
+  - Async I/O 🖐️
+  - Thread pool 🖐️
+  - Pattern Reactor 🙋
+  - CAS operations  🖐️
+  - epoll 👂
+  - kqueue 👂
+  - Completion ports 👂
+  - Event ports 👂
+  - libuv 👂
+  - Race conditions 🙋
+  - Dead locks 🙋
+  - Live locks 🙋
+  - Concurrent programming 🖐️
+  - Parallel programming 🖐️
+  - Actor Model 👂
+  - Thread 🖐️
+  - Process 🖐️
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks 🖐️
+  - Callback-last-error-first 
   - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Promise 🖐️
+  - Async/await 🖐️
+  - Future 🖐️
+  - Deferred 🖐️
+  - Sync generator 
+  - Async Generator 
+  - Async Iterator 
+  - Event 🖐️
+  - Coroutine 🖐️
+  - Goroutine 👂
+  - Signal 🖐️
+  - Stream 🖐️
+  - Chain of responsibility 🎓
+  - Middleware 🖐️
+  - Locks 🙋
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
+  - callbackify 👂
+  - promisify 👂
+  - asyncify 
+  - callbacks compose 👂
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
+  - EventEmitter 🎓
+  - Observable/Observer 🎓
+  - Readable 🎓
+  - Writable 🎓
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool 👂
+  - Async Queue 👂
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore 👂
+  - Mutex 👂
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers 👂
   - setImmediate
   - nextTick
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process
-  - worker_threads
+  - child_process 🖐️
+  - worker_threads 🖐️
   - Atomics
   - High resolution clock
   - Callback hell
@@ -75,7 +75,7 @@
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization 🖐️
   - promisify
   - callbackify
   - AsyncLocalStorage

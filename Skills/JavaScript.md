@@ -1,38 +1,38 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
+  - Object 🖐️
+  - this 🖐️
+  - arrow function 🖐️
+  - async function 🖐️
+  - call 🖐️
+  - bind 🖐️
+  - apply 🖐️
+  - instanceof 🖐️
+  - ...spread 🖐️
+  - ...rest 🖐️
+  - typeof 🖐️
   - destructuring
-  - generator
-  - iterator
+  - generator 🖐️
+  - iterator 🖐️
   - async generator
   - async iterator
-  - chaining
+  - chaining 🖐️
   - optional chaining
   - IIFE
   - global
   - globalThis
   - window
-  - getters and setters
+  - getters and setters 🖐️
   - __proto__
   - prototype
-  - equality operators
+  - equality operators 🖐️
   - logical operators
   - bitwise operators
-  - ternary operator
-  - void
+  - ternary operator 🖐️
+  - void 🖐️
   - yield
-  - await
+  - await 🖐️
   - template literal
   - strict mode
   - delete
@@ -41,49 +41,49 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
+  - if 🖐️
+  - while 🖐️
+  - do..while 🖐️
+  - for 🖐️
+  - for..in 
   - for..of
   - for await
-  - throw
-  - break
-  - continue
-  - import
+  - throw 🖐️
+  - break 🖐️
+  - continue 🖐️
+  - import 🖐️
   - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
+  - label 🖐️
+  - try..catch 🖐️
+  - switch 🖐️
+  - class 🖐️
+  - new Error 🖐️
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration 🖐️
+  - function expression 🖐️
+  - return 🖐️
+  - default parameters 🖐️
   - functional object
 - Data structures
-  - Array
+  - Array 🖐️
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
+  - Map 🖐️
+  - Set 🖐️
   - undefined
-  - null
-  - Proxy
+  - null 🖐️
+  - Proxy 🙋
   - weak collections
   - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - EventEmitter 🖐️
+  - RegExp 🙋
+  - Date 🖐️
+  - BigInt 🖐️
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 👂
+  - Node.js 🖐️
+  - npm 🖐️
+  - prettier 👂
+  - MDN 👂
