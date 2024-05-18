@@ -1,15 +1,15 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js 🎓
+  - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code 👂
-  - Event loop: phases 👂
+  - Nonblocking I/O and blocking code: 👂 heard
+  - Event loop: phases: 👂 heard
   - Event loop: microtasks and macrotasks
-  - Garbage collection 🖐️
+  - Garbage collection: 🖐️ used
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks 👂
-  - Interactive applications (close to real-time) 🖐️
+  - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
+  - Interactive applications (close to real-time): 🖐️ used
 - Modularity, layers and dependencies 🖐️
   - CommonJS modules
   - ECMAScript modules
@@ -18,18 +18,18 @@
   - Modules as singletons
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json` 🖐️
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection 🖐️
-  - DI containers 🖐️
-  - Coupling and cohesion 🖐️
+  - Dependency injection: 🖐️ used
+  - DI containers: 🖐️ used
+  - Coupling and cohesion: 🖐️ used
   - Framework agnostic approach
 - Environment
-  - Command line arguments 🖐️
+  - Command line arguments: 🖐️ used
   - Node.js CLI
   - Process-based permissions
-  - Graceful shutdown 🖐️
+  - Graceful shutdown: 🖐️ used
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
@@ -40,7 +40,7 @@
   - Web Crypto API
   - File system API (sync and async)
   - Copy folder recursively
-  - Worker threads 🖐️
+  - Worker threads: 🖐️ used
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
@@ -60,61 +60,61 @@
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - Endpoint throttling 🖐️
+  - Endpoint throttling: 🖐️ used
   - ALPN
   - SNI callback
-  - SSL certificates 🖐️
+  - SSL certificates: 🖐️ used
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S) 🖐️
-  - TCP/SSL 🖐️
-  - UDP 🖐️
-  - TLS 🖐️
-  - Websocket 🖐️
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used
+  - TLS: 🖐️ used
+  - Websocket: 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling 👂
-  - REST 🖐️
+  - Long polling: 👂 heard
+  - REST: 🖐️ used
   - RPC
-  - Routing 🖐️
-  - DoS  🙋
-  - DDoS  🙋
+  - Routing: 🖐️ used
+  - DoS: 🙋 explained
+  - DDoS: 🙋 explained
   - XSS
-  - Path traversal 👂
-  - CSRF 🖐️
-  - DNS 🖐️
-  - SQL injection 🖐️
+  - Path traversal: 👂 heard
+  - CSRF: 🖐️ used
+  - DNS: 🖐️ used
+  - SQL injection: 🖐️ used
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging 🖐️
-  - Application configuring 🖐️
-  - Testing 🖐️
-  - CI/CD 🖐️
-  - Readable 🖐️
-  - Writable 🖐️
+  - Logging: 🖐️ used
+  - Application configuring: 🖐️ used
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
-  - Back pressure 👂
-  - Buffer 🖐️
-  - Console 🖐️
+  - Back pressure: 👂 heard
+  - Buffer: 🖐️ used
+  - Console: 🖐️ used
   - Inspector
-  - Reliability 🖐️
-  - Quality 🖐️
-  - Availability 🖐️
-  - Flexibility 🖐️
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
 - Data access
-  - Data access layer 🖐️
-  - Repository 🖐️
+  - Data access layer: 🖐️ used
+  - Repository: 🖐️ used
   - Active record
   - Query builder
-  - Object-Relational Mapping 🖐️
-  - CRUD 🖐️
-  - DTO 🖐️
+  - Object-Relational Mapping: 🖐️ used
+  - CRUD: 🖐️ used
+  - DTO: 🖐️ used
 - Error handling and debugging
-  - `Error` 🖐️
+  - `Error`: 🖐️ used
   - `error.cause`
   - `error.code`
   - `error.message`
@@ -125,9 +125,9 @@
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks 🙋
-  - Resource leaks 🙋
-  - Data race 🙋
+  - Memory leaks: 🙋 explained
+  - Resource leaks: 🙋 explained
+  - Data race: 🙋 explained
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons
