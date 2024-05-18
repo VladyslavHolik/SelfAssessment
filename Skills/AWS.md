@@ -1,122 +1,108 @@
 ## Amazon Web Services (AWS) Overview
 
 - Core Concepts
-  - Regions 🙋
-  - Availability Zones 🙋
-  - Edge Locations 🎓
-  - Data Centers 🎓
-  - AWS Management Console 🙋
-  - AWS CLI (Command Line Interface) 🙋
-  - AWS SDKs 🎓
-  - IAM (Identity and Access Management) 🙋
-  - Resource Tagging 🎓
-  - VPC (Virtual Private Cloud) 🙋
-
+  - Regions: 🙋 explained
+  - Availability Zones: 🙋 explained
+  - Edge Locations: 🎓 known
+  - Data Centers: 🎓 known
+  - AWS Management Console: 🙋 explained
+  - AWS CLI (Command Line Interface): 🙋 explained
+  - AWS SDKs: 🎓 known
+  - IAM (Identity and Access Management): 🙋 explained
+  - Resource Tagging: 🎓 known
+  - VPC (Virtual Private Cloud): 🙋 explained
 - Compute Services
-  - EC2 (Elastic Compute Cloud) 🙋
-  - Lambda 🙋
-  - Elastic Beanstalk 🎓
-  - ECS (Elastic Container Service) 🙋
-  - EKS (Elastic Kubernetes Service) 🙋
-  - Fargate 🎓
-  - Lightsail 🎓
-  - Batch 🎓
-
+  - EC2 (Elastic Compute Cloud): 🙋 explained
+  - Lambda: 🙋 explained
+  - Elastic Beanstalk: 🎓 known
+  - ECS (Elastic Container Service): 🙋 explained
+  - EKS (Elastic Kubernetes Service): 🙋 explained
+  - Fargate: 🎓 known
+  - Lightsail: 🎓 known
+  - Batch: 🎓 known
 - Storage Services
-  - S3 (Simple Storage Service) 🙋
-  - EBS (Elastic Block Store) 🙋
-  - EFS (Elastic File System) 🎓
-  - Glacier 🎓
-  - FSx 🎓
+  - S3 (Simple Storage Service): 🙋 explained
+  - EBS (Elastic Block Store): 🙋 explained
+  - EFS (Elastic File System): 🎓 known
+  - Glacier: 🎓 known
+  - FSx: 🎓 known
   - Storage Gateway
-
 - Database Services
-  - RDS (Relational Database Service) 🙋
-  - DynamoDB 🙋
-  - Aurora 🎓
-  - Redshift 🎓
-  - ElastiCache 🎓
-  - DocumentDB 🎓
-  - Neptune 🎓
-  - QLDB (Quantum Ledger Database) 🎓
-  - Timestream 🎓
-
+  - RDS (Relational Database Service): 🙋 explained
+  - DynamoDB: 🙋 explained
+  - Aurora: 🎓 known
+  - Redshift: 🎓 known
+  - ElastiCache: 🎓 known
+  - DocumentDB: 🎓 known
+  - Neptune: 🎓 known
+  - QLDB (Quantum Ledger Database): 🎓 known
+  - Timestream: 🎓 known
 - Networking & Content Delivery
-  - VPC (Virtual Private Cloud) 🙋
-  - CloudFront 🙋
-  - Route 53 🎓
-  - Direct Connect 🎓
-  - Elastic Load Balancing (ELB) 🙋
-  - API Gateway 🖐️
-  - Global Accelerator 🎓
-
+  - CloudFront: 🙋 explained
+  - Route 53: 🎓 known
+  - Direct Connect: 🎓 known
+  - Elastic Load Balancing (ELB): 🙋 explained
+  - API Gateway: 🖐️ used
+  - Global Accelerator: 🎓 known
 - Security, Identity, & Compliance
-  - IAM (Identity and Access Management) 🙋
-  - KMS (Key Management Service) 🙋
-  - CloudHSM 👂
-  - Cognito 🎓
-  - GuardDuty 👂
-  - Inspector 👂
-  - Macie 👂
-  - AWS Shield 👂
-  - AWS WAF 👂
-  - Artifact 👂
-
+  - KMS (Key Management Service): 🙋 explained
+  - CloudHSM: 👂 heard
+  - Cognito: 🎓 known
+  - GuardDuty: 👂 heard
+  - Inspector: 👂 heard
+  - Macie: 👂 heard
+  - AWS Shield: 👂 heard
+  - AWS WAF: 👂 heard
+  - Artifact: 👂 heard
 - Monitoring & Management
-  - CloudWatch 🙋
-  - CloudTrail 🙋
-  - Config 🖐️
-  - Systems Manager 👂
-  - Trusted Advisor 👂
-  - AWS Organizations 👂
-  - Service Catalog 👂
-
+  - CloudWatch: 🙋 explained
+  - CloudTrail: 🙋 explained
+  - Config: 🖐️ used
+  - Systems Manager: 👂 heard
+  - Trusted Advisor: 👂 heard
+  - AWS Organizations: 👂 heard
+  - Service Catalog: 👂 heard
 - Analytics
-  - Athena 👂
-  - EMR (Elastic MapReduce)👂
-  - Kinesis 👂
-  - QuickSight 👂
-  - Data Pipeline 👂
-  - Glue 👂
-
+  - Athena: 👂 heard
+  - EMR (Elastic MapReduce): 👂 heard
+  - Kinesis: 👂 heard
+  - QuickSight: 👂 heard
+  - Data Pipeline: 👂 heard
+  - Glue: 👂 heard
 - Machine Learning
-  - SageMaker 👂
-  - Comprehend 👂
-  - Lex 👂
-  - Polly 👂
-  - Rekognition 👂
-  - Transcribe 👂
-  - Translate 👂
-  - Personalize 👂
-
+  - SageMaker: 👂 heard
+  - Comprehend: 👂 heard
+  - Lex: 👂 heard
+  - Polly: 👂 heard
+  - Rekognition: 👂 heard
+  - Transcribe: 👂 heard
+  - Translate: 👂 heard
+  - Personalize: 👂 heard
 - Application Integration
-  - Step Functions 🎓
-  - SWF (Simple Workflow Service) 👂
-  - AppSync 👂
-  - MQ 👂
-  - SNS (Simple Notification Service) 🎓
-  - SQS (Simple Queue Service) 🎓
-  - EventBridge 👂
-
+  - Step Functions: 🎓 known
+  - SWF (Simple Workflow Service): 👂 heard
+  - AppSync: 👂 heard
+  - MQ: 👂 heard
+  - SNS (Simple Notification Service): 🎓 known
+  - SQS (Simple Queue Service): 🎓 known
+  - EventBridge: 👂 heard
 - Developer Tools
-  - CodeCommit  👂
-  - CodeBuild 👂
-  - CodeDeploy  👂
-  - CodePipeline  👂
-  - Cloud9  👂
-  - X-Ray 🎓
-
+  - CodeCommit: 👂 heard
+  - CodeBuild: 👂 heard
+  - CodeDeploy: 👂 heard
+  - CodePipeline: 👂 heard
+  - Cloud9: 👂 heard
+  - X-Ray: 🎓 known
 - Migration & Transfer
-  - DMS (Database Migration Service) 👂
-  - Snowball  👂
-  - DataSync 👂
-  - Migration Hub  👂
-  - Transfer Family 👂
-
+  - DMS (Database Migration Service): 👂 heard
+  - Snowball: 👂 heard
+  - DataSync: 👂 heard
+  - Migration Hub: 👂 heard
+  - Transfer Family: 👂 heard
 - Media Services
-  - Elastic Transcoder  👂
-  - MediaConvert  👂
-  - MediaLive 👂
-  - MediaPackage  👂
-  - MediaStore  👂
-  - MediaTailor  👂
+  - Elastic Transcoder: 👂 heard
+  - MediaConvert: 👂 heard
+  - MediaLive: 👂 heard
+  - MediaPackage: 👂 heard
+  - MediaStore: 👂 heard
+  - MediaTailor: 👂 heard
