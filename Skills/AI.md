@@ -11,13 +11,13 @@
   - Gradient Descent: 🖐️ used
   - Loss Functions: 🙋 explained
   - Overfitting & Underfitting: 🙋 explained
-  - Regularization Techniques: 🖐️ used
-  - Batch Normalization: 🖐️ used
-  - Dropout: 🖐️ used
-  - Transfer Learning: 🖐️ used
-  - Data Augmentation: 🖐️ used
-  - Feature Extraction: 🖐️ used
-  - Hyperparameter Tuning: 🖐️ used
+  - Regularization Techniques: 🙋 explained
+  - Batch Normalization: 🙋 explained
+  - Dropout: 🙋 explained
+  - Transfer Learning: 🙋 explained
+  - Data Augmentation: 🙋 explained
+  - Feature Extraction: 🙋 explained
+  - Hyperparameter Tuning: 🙋 explained
 - Advanced Techniques
   - Generative Adversarial Networks (GAN): 👂 heard
   - Autoencoders
