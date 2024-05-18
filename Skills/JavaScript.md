@@ -18,12 +18,12 @@
   - `...rest`: 🖐️ used
   - `typeof`: 🖐️ used
   - Destructuring
-  - Generators 👂 heard
+  - Generators: 👂 heard
   - Iterators: 🖐️ used
-  - Async generator 🖐️ used
-  - Async iterator 👂 heard
-  - Chaining 🖐️ used
-  - Optional chaining 🖐️ used
+  - Async generator: 🖐️ used
+  - Async iterator: 👂 heard
+  - Chaining: 🖐️ used
+  - Optional chaining: 🖐️ used
   - IIFE
   - Async IIFE
   - `global`
@@ -41,7 +41,7 @@
   - `yield`
   - `await`: 🖐️ used
   - Template literal
-  - Strict mode 🖐️ used
+  - Strict mode: 🖐️ used
   - Hoisting
   - `delete`
   - `in`
@@ -56,8 +56,8 @@
   - Computed properties
   - Instance class fields
   - Static class fields
-  - Private class fields 🎓 known
-  - Private class methods 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
@@ -80,15 +80,15 @@
   - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
-  - Async function 🎓 known
+  - Async function: 🎓 known
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
-  - Default parameters 🖐️ used
-  - Functional object 👂 heard
+  - Default parameters: 🖐️ used
+  - Functional object: 👂 heard
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` 🖐️ used
+  - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
@@ -99,20 +99,20 @@
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy` 🎓 known
-  - `RegExp` 🎓 known
-  - `Date` 🎓 known
-  - `Math` 🎓 known
+  - `Proxy`: 🎓 known
+  - `RegExp`: 🎓 known
+  - `Date`: 🎓 known
+  - `Math`: 🎓 known
   - `Reflect`
-  - `Error` 🖐️ used
+  - `Error`: 🖐️ used
   - `Atomics`
   - `JSON`
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` 🖐️ used
-  - `console` 🖐️ used
-  - Timers 🖐️ used
+  - `Promise`: 🖐️ used
+  - `console`: 🖐️ used
+  - Timers: 🖐️ used
 - Infrastructure
   - V8: 👂 heard
   - Node.js: 🖐️ used

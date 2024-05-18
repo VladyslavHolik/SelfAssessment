@@ -29,9 +29,9 @@
   - Async/await: 🖐️ used
   - Future: 🖐️ used
   - Deferred: 🖐️ used
-  - Sync generator 🎓 known
-  - Async Generator 🎓 known
-  - Async Iterator 🎓 known
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
   - Event: 🖐️ used
   - Coroutine: 🖐️ used
   - Goroutine: 👂 heard
@@ -43,7 +43,7 @@
 - Async adapters and utils
   - callbackify: 🎓 known
   - promisify: 🎓 known
-  - asyncify 🎓 known
+  - asyncify: 🎓 known
   - Callbacks compose: 👂 heard
   - Async compose
 - Async abstractions interfaces
@@ -60,8 +60,8 @@
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
-  - `setImmediate` 🖐️ used
-  - `nextTick` 🖐️ used
+  - `setImmediate`: 🖐️ used
+  - `nextTick`: 🖐️ used
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -71,19 +71,19 @@
   - Callback hell
   - Promise hell
   - ref() and unref()
-  - Error handling in async code 🖐️ used
+  - Error handling in async code: 🖐️ used
   - Better stack traces with return await
   - JSON streaming serialization: 🖐️ used
-  - AsyncLocalStorage 👂 heard
-  - AsyncResource 👂 heard
+  - AsyncLocalStorage: 👂 heard
+  - AsyncResource: 👂 heard
 - Techniques
   - Async.js library
-  - RxJS library 👂 heard
-  - Promise.all  👂 heard
-  - Promise.allSettled 👂 heard
-  - Promise.race 👂 heard
-  - Promise.any 👂 heard
-  - Web Locks API 👂 heard
+  - RxJS library: 👂 heard
+  - Promise.all: 👂 heard
+  - Promise.allSettled: 👂 heard
+  - Promise.race: 👂 heard
+  - Promise.any: 👂 heard
+  - Web Locks API: 👂 heard
   - IPC
   - Channel API
-  - Revealing constructor 👂 heard
+  - Revealing constructor: 👂 heard
