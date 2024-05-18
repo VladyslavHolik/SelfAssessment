@@ -1,98 +1,89 @@
 ## Apache Kafka Overview
 
 - Core Concepts
-  - Topics 🙋
-  - Partitions 🙋
-  - Brokers 🙋
-  - Zookeeper 🙋
-  - Producers 🙋
-  - Consumers 🙋
-  - Consumer Groups 🙋
-  - Offsets 🙋
-  - Replication 🙋
-  - Leaders and Followers 🖐️
-  - Logs 🙋
-  - Records 🙋
-  - Schemas 🖐️
-
+  - Topics: 🙋 explained
+  - Partitions: 🙋 explained
+  - Brokers: 🙋 explained
+  - Zookeeper: 🙋 explained
+  - Producers: 🙋 explained
+  - Consumers: 🙋 explained
+  - Consumer Groups: 🙋 explained
+  - Offsets: 🙋 explained
+  - Replication: 🙋 explained
+  - Leaders and Followers: 🖐️ used
+  - Logs: 🙋 explained
+  - Records: 🙋 explained
+  - Schemas: 🖐️ used
 - Architecture
-  - Cluster 🙋
-  - Broker Architecture 🙋
-  - Topic Partitioning 🙋
-  - Replication Factor 🖐️
-  - ISR (In-Sync Replica) 🖐️
-  - Rack Awareness 👂
-  - Leader Election 👂
-  - High Availability 🙋
-  - Fault Tolerance 🙋
-
+  - Cluster: 🙋 explained
+  - Broker Architecture: 🙋 explained
+  - Topic Partitioning: 🙋 explained
+  - Replication Factor: 🖐️ used
+  - ISR (In-Sync Replica): 🖐️ used
+  - Rack Awareness: 👂 heard
+  - Leader Election: 👂 heard
+  - High Availability: 🙋 explained
+  - Fault Tolerance: 🙋 explained
 - Installation & Configuration
-  - Installation 🙋
-  - Configuration Files 🙋
-  - Cluster Setup 🙋
-  - Multi-Cluster Setup 🖐️
-  - Security Configuration 🖐️
-  - SSL/TLS 🙋
-  - SASL/PLAIN 🙋
-  - Kerberos 👂
-
+  - Installation: 🙋 explained
+  - Configuration Files: 🙋 explained
+  - Cluster Setup: 🙋 explained
+  - Multi-Cluster Setup: 🖐️ used
+  - Security Configuration: 🖐️ used
+  - SSL/TLS: 🙋 explained
+  - SASL/PLAIN: 🙋 explained
+  - Kerberos: 👂 heard
 - Producers
-  - Producer API 🙋
-  - Producer Configuration 🙋
-  - Serialization 🙋
-  - Custom Partitioner 👂
-  - Idempotent Producers 🖐️
-  - Transactional Producers 🖐️
-
+  - Producer API: 🙋 explained
+  - Producer Configuration: 🙋 explained
+  - Serialization: 🙋 explained
+  - Custom Partitioner: 👂 heard
+  - Idempotent Producers: 🖐️ used
+  - Transactional Producers: 🖐️ used
 - Consumers
-  - Consumer API 🙋
-  - Consumer Configuration 🙋
-  - Deserialization 🙋
-  - Consumer Offsets 🙋
-  - Polling 🙋
-  - Rebalancing 🖐️
-  - Commit Strategies 🖐️
-
+  - Consumer API: 🙋 explained
+  - Consumer Configuration: 🙋 explained
+  - Deserialization: 🙋 explained
+  - Consumer Offsets: 🙋 explained
+  - Polling: 🙋 explained
+  - Rebalancing: 🖐️ used
+  - Commit Strategies: 🖐️ used
 - Kafka Streams
-  - Streams API 🙋
-  - Topologies 🙋
-  - KStreams 👂
-  - KTables 👂
-  - Stateful vs Stateless Processing 🖐️
-  - Windowing 👂
-  - Joins 👂
-  - GlobalKTable 👂
-  - Interactive Queries 👂
-
+  - Streams API: 🙋 explained
+  - Topologies: 🙋 explained
+  - KStreams: 👂 heard
+  - KTables: 👂 heard
+  - Stateful vs Stateless Processing: 🖐️ used
+  - Windowing: 👂 heard
+  - Joins: 👂 heard
+  - GlobalKTable: 👂 heard
+  - Interactive Queries: 👂 heard
 - Kafka Connect
-  - Connect API 🙋
-  - Source Connectors 🙋
-  - Sink Connectors 🙋
-  - Distributed vs Standalone Mode 👂
-  - Connector Configuration 🙋
-  - Custom Connectors 🖐️
-  - Schema Registry 👂
-
+  - Connect API: 🙋 explained
+  - Source Connectors: 🙋 explained
+  - Sink Connectors: 🙋 explained
+  - Distributed vs Standalone Mode: 👂 heard
+  - Connector Configuration: 🙋 explained
+  - Custom Connectors: 🖐️ used
+  - Schema Registry: 👂 heard
 - Monitoring & Management
-  - Metrics 🙋
-  - JMX (Java Management Extensions) 👂
-  - Prometheus 🖐️
-  - Grafana 🖐️
-  - Kafka Manager 👂
-  - Burrow 👂
-  - Cruise Control 👂
-
+  - Metrics: 🙋 explained
+  - JMX (Java Management Extensions): 👂 heard
+  - Prometheus: 🖐️ used
+  - Grafana: 🖐️ used
+  - Kafka Manager: 👂 heard
+  - Burrow: 👂 heard
+  - Cruise Control: 👂 heard
 - Security
-  - Authentication 🙋
-  - Authorization 🙋
-  - ACLs (Access Control Lists) 🙋
-  - Encryption 🖐️
-  - Auditing 🖐️
-
+  - Authentication: 🙋 explained
+  - Authorization: 🙋 explained
+  - ACLs (Access Control Lists): 🙋 explained
+  - Encryption: 🖐️ used
+  - Auditing: 🖐️ used
 - Use Cases
-  - Real-time Analytics 🖐️
-  - Event Sourcing 🖐️
-  - Log Aggregation 🙋
-  - Stream Processing 🙋
-  - Data Integration 🖐️
-  - Microservices Communication 🙋
+  - Real-time Analytics: 🖐️ used
+  - Event Sourcing: 🖐️ used
+  - Log Aggregation: 🙋 explained
+  - Stream Processing: 🙋 explained
+  - Data Integration: 🖐️ used
+  - Microservices Communication: 🙋 explained
