@@ -18,7 +18,7 @@
   - Live locks: 🙋 explained
   - Concurrent programming: 🙋 explained
   - Parallel programming: 🙋 explained
-  - Actor Model: 🎓 known
+  - Actor Model: 🖐️ used
   - Thread: 🖐️ used
   - Process: 🖐️ used
 - Async contracts
