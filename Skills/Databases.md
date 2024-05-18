@@ -83,6 +83,7 @@
   - DB2
   - SQLite 🖐️
   - DynamoDB 🙋
+  - CouchbaseDB 
   - Firebase
 - Data engineering
   - Data warehousing
