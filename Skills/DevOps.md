@@ -1,29 +1,25 @@
 ## DevOps
 
 - Continuous Integration and Continuous Deployment (CI/CD)
-  - gitlab: 🖐️
-  - github: 🖐️
-
+  - gitlab: 🖐️ used
+  - github: 🖐️ used
 - Virtualization and Containerization
   - Virtualization Technologies
-  - Virtual Machines: 🙋
-  - Hypervisors: 🖐️
-  - Containerization 🙋
-  - Docker Containers: 🙋
-  - Container Registries (e.g., Docker Hub, AWS ECR): 🙋
-  - Kubernetes: 🙋
-  - Docker Swarm 👂
-  - Helm for Kubernetes Package Management 👂
+  - Virtual Machines: 🙋 explained
+  - Hypervisors: 🖐️ used
+  - Containerization: 🙋 explained
+  - Docker Containers: 🙋 explained
+  - Container Registries (e.g., Docker Hub, AWS ECR): 🙋 explained
+  - Kubernetes: 🙋 explained
+  - Docker Swarm: 👂 heard
+  - Helm for Kubernetes Package Management: 👂 heard
   - Configuration Management and Automation
-  - Ansible: 🖐️
-
+  - Ansible: 🖐️ used
 - Monitoring and Observability
-  - Application Performance Monitoring (APM) Tools (e.g., New Relic, Datadog): 🖐️
-
+  - Application Performance Monitoring (APM) Tools (e.g., New Relic, Datadog): 🖐️ used
 - Infrastructure Management
   - Cloud Infrastructure Management
-  - Public Cloud Platforms (AWS, Azure, GCP): 🖐️
-  - Hybrid and Multi-cloud Strategies: 🖐️
-  - terraform: 👂
-  - Software-Defined Networking (SDN) 👂
-  
+  - Public Cloud Platforms (AWS, Azure, GCP): 🖐️ used
+  - Hybrid and Multi-cloud Strategies: 🖐️ used
+  - terraform: 👂 heard
+  - Software-Defined Networking (SDN): 👂 heard
