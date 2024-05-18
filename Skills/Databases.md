@@ -83,7 +83,7 @@
   - DB2
   - SQLite: 🖐️ used
   - DynamoDB: 🙋 explained
-  - CouchbaseDB 🙋 explained
+  - CouchbaseDB: 🙋 explained
   - Firebase
 - Data engineering
   - Data warehousing

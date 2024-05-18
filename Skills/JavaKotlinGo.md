@@ -59,13 +59,13 @@
   - Creating and Using Custom Packages: 🖐️ used
 - Advanced Go Features
   - Interfaces and Type Embedding: 🙋 explained
-  - Concurrency Patterns 🖐️ used
+  - Concurrency Patterns: 🖐️ used
   - Context Package: 🎓 known
 - Testing and Benchmarking
-  - Writing Unit Tests:  🙋 explained
+  - Writing Unit Tests: 🙋 explained
   - Benchmarking in Go: 🖐️ used
-  - Testing Best Practices:  🙋 explained
-  - Mocking in Go:  🙋 explained
+  - Testing Best Practices: 🙋 explained
+  - Mocking in Go: 🙋 explained
 - Web Development in Go
   - HTTP Server and Client: 🖐️ used
   - Routing and Middleware: 🖐️ used
@@ -75,7 +75,7 @@
   - go toolset (e.g., go build, go test): 🖐️ used
   - Profiling Go Programs: 🖐️ used
   - Debugging Techniques: 🖐️ used
-  - Continuous Integration with Go:  🙋 explained
+  - Continuous Integration with Go: 🙋 explained
 - Best Practices and Code Organization
   - Code Style and Conventions: 📢 talked
   - Documentation in Go: 🖐️ used

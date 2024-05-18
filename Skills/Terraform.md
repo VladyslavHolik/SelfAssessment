@@ -1,95 +1,84 @@
 ## Terraform Overview
 
 - Core Concepts
-  - Infrastructure as Code (IaC) 🖐️
-  - Declarative Configuration 🖐️
-  - Providers 🖐️
-  - Resources 🖐️
-  - Data Sources 🖐️
-  - State 🖐️
-  - Modules 🖐️
-  - Outputs 🖐️
-  - Variables 🖐️
-  - Workspaces 🖐️
-  - Backend 🖐️
-  - Provisioners 🖐️
-
+  - Infrastructure as Code (IaC): 🖐️ used
+  - Declarative Configuration: 🖐️ used
+  - Providers: 🖐️ used
+  - Resources: 🖐️ used
+  - Data Sources: 🖐️ used
+  - State: 🖐️ used
+  - Modules: 🖐️ used
+  - Outputs: 🖐️ used
+  - Variables: 🖐️ used
+  - Workspaces: 🖐️ used
+  - Backend: 🖐️ used
+  - Provisioners: 🖐️ used
 - Terraform Configuration
-  - HCL (HashiCorp Configuration Language) 🖐️
-  - Terraform Files (`.tf`) 🖐️
-  - Main Configuration File 🖐️
-  - Variables File 🖐️
-  - Outputs File 🖐️
-  - Module Structure 🖐️
-
+  - HCL (HashiCorp Configuration Language): 🖐️ used
+  - Terraform Files (`.tf`): 🖐️ used
+  - Main Configuration File: 🖐️ used
+  - Variables File: 🖐️ used
+  - Outputs File: 🖐️ used
+  - Module Structure: 🖐️ used
 - Initialization & Setup
-  - `terraform init` 🖐️
+  - `terraform init`: 🖐️ used
   - Provider Plugins
-  - Remote Backend Setup 🖐️
+  - Remote Backend Setup: 🖐️ used
   - State Management
   - Locking State
-
 - Execution Commands
-  - `terraform plan` 🖐️
-  - `terraform apply` 🖐️
-  - `terraform destroy` 🖐️
+  - `terraform plan`: 🖐️ used
+  - `terraform apply`: 🖐️ used
+  - `terraform destroy`: 🖐️ used
   - `terraform refresh`
   - `terraform taint`
   - `terraform untaint`
   - `terraform import`
-
 - State Management
-  - Remote State 🖐️
-  - State File 🖐️
-  - State Locking 🖐️
-  - State Backend Configuration 🖐️
-  - State Manipulation Commands 🖐️
+  - Remote State: 🖐️ used
+  - State File: 🖐️ used
+  - State Locking: 🖐️ used
+  - State Backend Configuration: 🖐️ used
+  - State Manipulation Commands: 🖐️ used
   - State Drift Detection
-
 - Providers
-  - AWS Provider 🙋
-  - Azure Provider 👂
-  - Google Cloud Provider 👂
-  - Kubernetes Provider 👂
-  - Helm Provider 👂
-  - Custom Providers 👂
-
+  - AWS Provider: 🙋 explained
+  - Azure Provider: 👂 heard
+  - Google Cloud Provider: 👂 heard
+  - Kubernetes Provider: 👂 heard
+  - Helm Provider: 👂 heard
+  - Custom Providers: 👂 heard
 - Modules
-  - Creating Modules 👂
-  - Using Modules 👂
-  - Public Modules (Terraform Registry) 👂
-  - Module Versioning 👂
-  - Nested Modules 👂
-  - Module Composition 👂
-
+  - Creating Modules: 👂 heard
+  - Using Modules: 👂 heard
+  - Public Modules (Terraform Registry): 👂 heard
+  - Module Versioning: 👂 heard
+  - Nested Modules: 👂 heard
+  - Module Composition: 👂 heard
 - Variables and Outputs
-  - Input Variables 👂
-  - Variable Types 🖐️
-  - Default Values 👂
-  - Variable Files 🖐️
-  - Output Values 🖐️
-  - Sensitive Variables 🖐️
-  - Variable Precedence 👂
-
+  - Input Variables: 👂 heard
+  - Variable Types: 🖐️ used
+  - Default Values: 👂 heard
+  - Variable Files: 🖐️ used
+  - Output Values: 🖐️ used
+  - Sensitive Variables: 🖐️ used
+  - Variable Precedence: 👂 heard
 - Provisioners
-  - `local-exec` 🖐️
-  - `remote-exec` 🖐️
-  - File Provisioner 👂
-  - Connection Blocks 👂
-  - Provisioner Dependencies 👂
-
+  - `local-exec`: 🖐️ used
+  - `remote-exec`: 🖐️ used
+  - File Provisioner: 👂 heard
+  - Connection Blocks: 👂 heard
+  - Provisioner Dependencies: 👂 heard
 - Terraform Cloud & Enterprise
-  - Remote Operations 🖐️
-  - VCS Integration 🖐️
-  - Workspaces 🖐️
-  - Sentinel Policies 👂
-  - Cost Estimation 👂
-  - Collaboration and Governance 👂
-
+  - Remote Operations: 🖐️ used
+  - VCS Integration: 🖐️ used
+  - Sentinel Policies: 👂 heard
+  - Cost Estimation: 👂 heard
+  - Collaboration and Governance: 👂 heard
 - Advanced Topics
-  - Dynamic Blocks 👂
-  - Count and For_each 👂
-  - Local Values 🖐️
-  - Custom Backends 👂
-  - Terraform Import 👂
-  - Debugging Configurations 👂
+  - Dynamic Blocks: 👂 heard
+  - Count and For_each: 👂 heard
+  - Local Values: 🖐️ used
+  - Custom Backends: 👂 heard
+  - Terraform Import: 👂 heard
+  - Debugging Configurations: 👂 heard
