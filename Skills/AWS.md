@@ -1,0 +1,108 @@
+## Amazon Web Services (AWS) Overview
+
+- Core Concepts
+  - Regions: 🙋 explained
+  - Availability Zones: 🙋 explained
+  - Edge Locations: 🎓 known
+  - Data Centers: 🎓 known
+  - AWS Management Console: 🙋 explained
+  - AWS CLI (Command Line Interface): 🙋 explained
+  - AWS SDKs: 🎓 known
+  - IAM (Identity and Access Management): 🙋 explained
+  - Resource Tagging: 🎓 known
+  - VPC (Virtual Private Cloud): 🙋 explained
+- Compute Services
+  - EC2 (Elastic Compute Cloud): 🙋 explained
+  - Lambda: 🙋 explained
+  - Elastic Beanstalk: 🎓 known
+  - ECS (Elastic Container Service): 🙋 explained
+  - EKS (Elastic Kubernetes Service): 🙋 explained
+  - Fargate: 🎓 known
+  - Lightsail: 🎓 known
+  - Batch: 🎓 known
+- Storage Services
+  - S3 (Simple Storage Service): 🙋 explained
+  - EBS (Elastic Block Store): 🙋 explained
+  - EFS (Elastic File System): 🎓 known
+  - Glacier: 🎓 known
+  - FSx: 🎓 known
+  - Storage Gateway
+- Database Services
+  - RDS (Relational Database Service): 🙋 explained
+  - DynamoDB: 🙋 explained
+  - Aurora: 🎓 known
+  - Redshift: 🎓 known
+  - ElastiCache: 🎓 known
+  - DocumentDB: 🎓 known
+  - Neptune: 🎓 known
+  - QLDB (Quantum Ledger Database): 🎓 known
+  - Timestream: 🎓 known
+- Networking & Content Delivery
+  - CloudFront: 🙋 explained
+  - Route 53: 🎓 known
+  - Direct Connect: 🎓 known
+  - Elastic Load Balancing (ELB): 🙋 explained
+  - API Gateway: 🖐️ used
+  - Global Accelerator: 🎓 known
+- Security, Identity, & Compliance
+  - KMS (Key Management Service): 🙋 explained
+  - CloudHSM: 👂 heard
+  - Cognito: 🎓 known
+  - GuardDuty: 👂 heard
+  - Inspector: 👂 heard
+  - Macie: 👂 heard
+  - AWS Shield: 👂 heard
+  - AWS WAF: 👂 heard
+  - Artifact: 👂 heard
+- Monitoring & Management
+  - CloudWatch: 🙋 explained
+  - CloudTrail: 🙋 explained
+  - Config: 🖐️ used
+  - Systems Manager: 👂 heard
+  - Trusted Advisor: 👂 heard
+  - AWS Organizations: 👂 heard
+  - Service Catalog: 👂 heard
+- Analytics
+  - Athena: 👂 heard
+  - EMR (Elastic MapReduce): 👂 heard
+  - Kinesis: 👂 heard
+  - QuickSight: 👂 heard
+  - Data Pipeline: 👂 heard
+  - Glue: 👂 heard
+- Machine Learning
+  - SageMaker: 👂 heard
+  - Comprehend: 👂 heard
+  - Lex: 👂 heard
+  - Polly: 👂 heard
+  - Rekognition: 👂 heard
+  - Transcribe: 👂 heard
+  - Translate: 👂 heard
+  - Personalize: 👂 heard
+- Application Integration
+  - Step Functions: 🎓 known
+  - SWF (Simple Workflow Service): 👂 heard
+  - AppSync: 👂 heard
+  - MQ: 👂 heard
+  - SNS (Simple Notification Service): 🎓 known
+  - SQS (Simple Queue Service): 🎓 known
+  - EventBridge: 👂 heard
+- Developer Tools
+  - CodeCommit: 👂 heard
+  - CodeBuild: 👂 heard
+  - CodeDeploy: 👂 heard
+  - CodePipeline: 👂 heard
+  - Cloud9: 👂 heard
+  - X-Ray: 🎓 known
+- Migration & Transfer
+  - DMS (Database Migration Service): 👂 heard
+  - Snowball: 👂 heard
+  - DataSync: 👂 heard
+  - Migration Hub: 👂 heard
+  - Transfer Family: 👂 heard
+- Media Services
+  - Elastic Transcoder: 👂 heard
+  - MediaConvert: 👂 heard
+  - MediaLive: 👂 heard
+  - MediaPackage: 👂 heard
+  - MediaStore: 👂 heard
+  - MediaTailor: 👂 heard

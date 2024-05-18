@@ -1,0 +1,89 @@
+## Apache Kafka Overview
+
+- Core Concepts
+  - Topics: 🙋 explained
+  - Partitions: 🙋 explained
+  - Brokers: 🙋 explained
+  - Zookeeper: 🙋 explained
+  - Producers: 🙋 explained
+  - Consumers: 🙋 explained
+  - Consumer Groups: 🙋 explained
+  - Offsets: 🙋 explained
+  - Replication: 🙋 explained
+  - Leaders and Followers: 🖐️ used
+  - Logs: 🙋 explained
+  - Records: 🙋 explained
+  - Schemas: 🖐️ used
+- Architecture
+  - Cluster: 🙋 explained
+  - Broker Architecture: 🙋 explained
+  - Topic Partitioning: 🙋 explained
+  - Replication Factor: 🖐️ used
+  - ISR (In-Sync Replica): 🖐️ used
+  - Rack Awareness: 👂 heard
+  - Leader Election: 👂 heard
+  - High Availability: 🙋 explained
+  - Fault Tolerance: 🙋 explained
+- Installation & Configuration
+  - Installation: 🙋 explained
+  - Configuration Files: 🙋 explained
+  - Cluster Setup: 🙋 explained
+  - Multi-Cluster Setup: 🖐️ used
+  - Security Configuration: 🖐️ used
+  - SSL/TLS: 🙋 explained
+  - SASL/PLAIN: 🙋 explained
+  - Kerberos: 👂 heard
+- Producers
+  - Producer API: 🙋 explained
+  - Producer Configuration: 🙋 explained
+  - Serialization: 🙋 explained
+  - Custom Partitioner: 👂 heard
+  - Idempotent Producers: 🖐️ used
+  - Transactional Producers: 🖐️ used
+- Consumers
+  - Consumer API: 🙋 explained
+  - Consumer Configuration: 🙋 explained
+  - Deserialization: 🙋 explained
+  - Consumer Offsets: 🙋 explained
+  - Polling: 🙋 explained
+  - Rebalancing: 🖐️ used
+  - Commit Strategies: 🖐️ used
+- Kafka Streams
+  - Streams API: 👂 heard
+  - Topologies: 👂 heard
+  - KStreams: 👂 heard
+  - KTables: 👂 heard
+  - Stateful vs Stateless Processing: 👂 heard
+  - Windowing: 👂 heard
+  - Joins: 👂 heard
+  - GlobalKTable: 👂 heard
+  - Interactive Queries: 👂 heard
+- Kafka Connect
+  - Connect API: 🙋 explained
+  - Source Connectors: 🙋 explained
+  - Sink Connectors: 🙋 explained
+  - Distributed vs Standalone Mode: 👂 heard
+  - Connector Configuration: 🙋 explained
+  - Custom Connectors: 🖐️ used
+  - Schema Registry: 👂 heard
+- Monitoring & Management
+  - Metrics: 🙋 explained
+  - JMX (Java Management Extensions): 👂 heard
+  - Prometheus: 🖐️ used
+  - Grafana: 🖐️ used
+  - Kafka Manager: 👂 heard
+  - Burrow: 👂 heard
+  - Cruise Control: 👂 heard
+- Security
+  - Authentication: 🙋 explained
+  - Authorization: 🙋 explained
+  - ACLs (Access Control Lists): 🙋 explained
+  - Encryption: 🖐️ used
+  - Auditing: 🖐️ used
+- Use Cases
+  - Real-time Analytics: 🖐️ used
+  - Event Sourcing: 🖐️ used
+  - Log Aggregation: 🙋 explained
+  - Stream Processing: 🙋 explained
+  - Data Integration: 🖐️ used
+  - Microservices Communication: 🙋 explained

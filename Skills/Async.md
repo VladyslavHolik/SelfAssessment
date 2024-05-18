@@ -18,7 +18,7 @@
   - Live locks: 🙋 explained
   - Concurrent programming: 🙋 explained
   - Parallel programming: 🙋 explained
-  - Actor Model: 🎓 known
+  - Actor Model: 🖐️ used
   - Thread: 🖐️ used
   - Process: 🖐️ used
 - Async contracts
@@ -29,9 +29,9 @@
   - Async/await: 🖐️ used
   - Future: 🖐️ used
   - Deferred: 🖐️ used
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
   - Event: 🖐️ used
   - Coroutine: 🖐️ used
   - Goroutine: 👂 heard
@@ -41,16 +41,16 @@
   - Middleware: 🖐️ used
   - Locks: 🙋 explained
 - Async adapters and utils
-  - callbackify: 👂 heard
-  - promisify: 👂 heard
-  - asyncify
+  - callbackify: 🎓 known
+  - promisify: 🎓 known
+  - asyncify: 🎓 known
   - Callbacks compose: 👂 heard
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter: 🎓 known
+  - EventEmitter: 🖐️ used
   - Observable/Observer: 🎓 known
-  - Readable: 🎓 known
-  - Writable: 🎓 known
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
@@ -59,9 +59,9 @@
   - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers: 👂 heard
-  - `setImmediate`
-  - `nextTick`
+  - Timers: 🖐️ used
+  - `setImmediate`: 🖐️ used
+  - `nextTick`: 🖐️ used
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -71,19 +71,19 @@
   - Callback hell
   - Promise hell
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: 🖐️ used
   - Better stack traces with return await
   - JSON streaming serialization: 🖐️ used
-  - AsyncLocalStorage
-  - AsyncResource
+  - AsyncLocalStorage: 👂 heard
+  - AsyncResource: 👂 heard
 - Techniques
   - Async.js library
-  - RxJS library
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
-  - Web Locks API
+  - RxJS library: 👂 heard
+  - Promise.all: 👂 heard
+  - Promise.allSettled: 👂 heard
+  - Promise.race: 👂 heard
+  - Promise.any: 👂 heard
+  - Web Locks API: 👂 heard
   - IPC
   - Channel API
-  - Revealing constructor
+  - Revealing constructor: 👂 heard

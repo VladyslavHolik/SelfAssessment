@@ -1,0 +1,84 @@
+## Terraform Overview
+
+- Core Concepts
+  - Infrastructure as Code (IaC): 🖐️ used
+  - Declarative Configuration: 🖐️ used
+  - Providers: 🖐️ used
+  - Resources: 🖐️ used
+  - Data Sources: 🖐️ used
+  - State: 🖐️ used
+  - Modules: 🖐️ used
+  - Outputs: 🖐️ used
+  - Variables: 🖐️ used
+  - Workspaces: 🖐️ used
+  - Backend: 🖐️ used
+  - Provisioners: 🖐️ used
+- Terraform Configuration
+  - HCL (HashiCorp Configuration Language): 🖐️ used
+  - Terraform Files (`.tf`): 🖐️ used
+  - Main Configuration File: 🖐️ used
+  - Variables File: 🖐️ used
+  - Outputs File: 🖐️ used
+  - Module Structure: 🖐️ used
+- Initialization & Setup
+  - `terraform init`: 🖐️ used
+  - Provider Plugins
+  - Remote Backend Setup: 🖐️ used
+  - State Management
+  - Locking State
+- Execution Commands
+  - `terraform plan`: 🖐️ used
+  - `terraform apply`: 🖐️ used
+  - `terraform destroy`: 🖐️ used
+  - `terraform refresh`
+  - `terraform taint`
+  - `terraform untaint`
+  - `terraform import`
+- State Management
+  - Remote State: 🖐️ used
+  - State File: 🖐️ used
+  - State Locking: 🖐️ used
+  - State Backend Configuration: 🖐️ used
+  - State Manipulation Commands: 🖐️ used
+  - State Drift Detection
+- Providers
+  - AWS Provider: 🙋 explained
+  - Azure Provider: 👂 heard
+  - Google Cloud Provider: 👂 heard
+  - Kubernetes Provider: 👂 heard
+  - Helm Provider: 👂 heard
+  - Custom Providers: 👂 heard
+- Modules
+  - Creating Modules: 👂 heard
+  - Using Modules: 👂 heard
+  - Public Modules (Terraform Registry): 👂 heard
+  - Module Versioning: 👂 heard
+  - Nested Modules: 👂 heard
+  - Module Composition: 👂 heard
+- Variables and Outputs
+  - Input Variables: 👂 heard
+  - Variable Types: 🖐️ used
+  - Default Values: 👂 heard
+  - Variable Files: 🖐️ used
+  - Output Values: 🖐️ used
+  - Sensitive Variables: 🖐️ used
+  - Variable Precedence: 👂 heard
+- Provisioners
+  - `local-exec`: 🖐️ used
+  - `remote-exec`: 🖐️ used
+  - File Provisioner: 👂 heard
+  - Connection Blocks: 👂 heard
+  - Provisioner Dependencies: 👂 heard
+- Terraform Cloud & Enterprise
+  - Remote Operations: 🖐️ used
+  - VCS Integration: 🖐️ used
+  - Sentinel Policies: 👂 heard
+  - Cost Estimation: 👂 heard
+  - Collaboration and Governance: 👂 heard
+- Advanced Topics
+  - Dynamic Blocks: 👂 heard
+  - Count and For_each: 👂 heard
+  - Local Values: 🖐️ used
+  - Custom Backends: 👂 heard
+  - Terraform Import: 👂 heard
+  - Debugging Configurations: 👂 heard
