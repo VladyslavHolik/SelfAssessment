@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-444&nbsp;/&nbsp;690&nbsp;/&nbsp;735-FF3300?style=flat-square)](https://github.com/VladyslavHolik/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-444&nbsp;/&nbsp;690&nbsp;/&nbsp;735-009933?style=flat-square)](https://github.com/VladyslavHolik/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-444&nbsp;/&nbsp;690&nbsp;/&nbsp;735-FF3300?style=flat-square)](https://github.com/VladyslavHolik/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-444&nbsp;/&nbsp;690&nbsp;/&nbsp;735-009933?style=flat-square)](https://github.com/VladyslavHolik/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/VladyslavHolik/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-444&nbsp;/&nbsp;690&nbsp;/&nbsp;735-FF3300?style=flat-square"></a>
+<a href="https://github.com/VladyslavHolik/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-444&nbsp;/&nbsp;690&nbsp;/&nbsp;735-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
