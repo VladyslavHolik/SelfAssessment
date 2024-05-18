@@ -1,94 +1,95 @@
 ## Databases
 
 - Theory and concepts
-  - Data types: 🙋 explained
-  - Performance tuning: 🙋 explained
-  - Migrations: 🙋 explained
-  - Schema versioning: 🙋 explained
-  - Backup and recovery: 🙋 explained
-  - Database scalability: 🙋 explained
-  - Relational databases: 🙋 explained
-  - Key-value store: 🙋 explained
-  - Tuple store: 🙋 explained
-  - Graph databases: 🙋 explained
-  - Object databases: 🙋 explained
-  - Column databases: 🙋 explained
+  - Data types 🙋
+  - Performance tuning 🙋
+  - Migrations 🙋
+  - Schema versioning 🙋
+  - Backup and recovery 🙋
+  - Database scalability 🙋
+  - Relational databases 🙋
+  - Key-value store 🙋
+  - Tuple store 🙋
+  - Graph databases 🙋
+  - Object databases 🙋
+  - Column databases 🙋
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases: 🙋 explained
-  - Inverted index: 🖐️ used
-  - Data control language (DCL): 🙋 explained
-  - Data definition language (DDL): 🙋 explained
-  - Data manipulation language (DML): 🙋 explained
-  - Data query language (DQL): 🙋 explained
+  - In-memory databases 🙋
+  - Inverted index 🖐️
+  - Data control language (DCL) 🙋
+  - Data definition language (DDL) 🙋
+  - Data manipulation language (DML) 🙋
+  - Data query language (DQL) 🙋
 - Relational
-  - Entity-Relationship Diagram: 🙋 explained
-  - Normal forms: 🙋 explained
-  - Indexing: 🙋 explained
-  - Primary keys: 🙋 explained
-  - Foreign keys: 🙋 explained
-  - Transactions: 🙋 explained
-  - Views: 🙋 explained
-  - Subqueries: 🙋 explained
-  - Stored procedures: 🙋 explained
-  - SQL functions: 🙋 explained
-  - Materialized views: 🙋 explained
-  - Replications: 🙋 explained
-  - Virtualization: 🙋 explained
+  - Entity-Relationship Diagram 🙋
+  - Normal forms 🙋
+  - Indexing 🙋
+  - Primary keys 🙋
+  - Foreign keys 🙋
+  - Transactions 🙋
+  - Views 🙋
+  - Subqueries 🙋
+  - Stored procedures 🙋
+  - SQL functions 🙋
+  - Materialized views 🙋
+  - Replications 🙋
+  - Virtualization 🙋
 - SQL
-  - `SELECT`: 🙋 explained
-  - `INSERT`: 🙋 explained
-  - `UPDATE`: 🙋 explained
-  - `DELETE`: 🙋 explained
-  - `LIMIT`: 🙋 explained
-  - `OFFSET`: 🙋 explained
-  - `ORDER BY`: 🙋 explained
-  - `GROUP BY`: 🙋 explained
-  - `HAVING`: 🙋 explained
-  - `EXISTS`: 🙋 explained
-  - `JOIN`: 🙋 explained
-  - `INNER JOIN`: 🙋 explained
-  - `LEFT JOIN`: 🙋 explained
-  - `RIGHT JOIN`: 🙋 explained
-  - `UNION`: 🙋 explained
-  - `DISTINCT`: 🙋 explained
-  - `WHERE`: 🙋 explained
-  - `LIKE`: 🙋 explained
-  - `IN`: 🙋 explained
-  - `BETWEEN`: 🙋 explained
-  - `CREATE TABLE`: 🙋 explained
-  - `ALTER TABLE`: 🙋 explained
-  - `DROP TABLE`: 🙋 explained
-  - `PRIMARY KEY`: 🙋 explained
-  - `FOREIGN KEY`: 🙋 explained
+  - `SELECT` 🙋
+  - `INSERT` 🙋
+  - `UPDATE` 🙋
+  - `DELETE` 🙋
+  - `LIMIT` 🙋
+  - `OFFSET` 🙋
+  - `ORDER BY` 🙋
+  - `GROUP BY` 🙋
+  - `HAVING` 🙋
+  - `EXISTS` 🙋
+  - `JOIN` 🙋
+  - `INNER JOIN` 🙋
+  - `LEFT JOIN` 🙋
+  - `RIGHT JOIN` 🙋
+  - `UNION` 🙋
+  - `DISTINCT` 🙋
+  - `WHERE` 🙋
+  - `LIKE` 🙋
+  - `IN` 🙋
+  - `BETWEEN` 🙋
+  - `CREATE TABLE` 🙋
+  - `ALTER TABLE` 🙋
+  - `DROP TABLE` 🙋
+  - `PRIMARY KEY` 🙋
+  - `FOREIGN KEY` 🙋
   - `CHECK`
   - `DEFAULT`
-  - `INDEX`: 🙋 explained
-  - `UNIQUE`: 🙋 explained
-  - `GRANT`: 🙋 explained
+  - `INDEX` 🙋
+  - `UNIQUE` 🙋
+  - `GRANT` 🙋
   - `REVOKE`
-  - `DENY`: 🙋 explained
-  - `EXPLAIN`: 🙋 explained
+  - `DENY` 🙋
+  - `EXPLAIN` 🙋
 - Engines
-  - PostgreSQL: 🙋 explained
+  - PostgreSQL 🙋
   - Oracle
-  - MySQL: 🖐️ used
-  - MariaDB: 🖐️ used
+  - MySQL 🖐️
+  - MariaDB 🖐️
   - MS SQL Server
-  - Redis: 🖐️ used
-  - Rabbit: 🖐️ used
-  - MongoDB: 🙋 explained
-  - Memcached: 🖐️ used
+  - Redis 🖐️
+  - Rabbit 🖐️
+  - MongoDB 🙋
+  - Memcached 🖐️
   - Riak
   - DB2
-  - SQLite: 🖐️ used
-  - DynamoDB: 🙋 explained
+  - SQLite 🖐️
+  - DynamoDB 🙋
+  - CouchbaseDB 🙋
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data: 🙋 explained
+  - Big data 🙋
   - Data analysis
-  - AI tools: 🙋 explained
-  - Cloud databases: 🙋 explained
-  - Data Visualization: 🙋 explained
+  - AI tools 🙋
+  - Cloud databases 🙋
+  - Data Visualization 🙋
